@@ -9,7 +9,27 @@
 </head>
 
 <body class="base">
-
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container-fluid">
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">surprise</a></li>
+            <li><a href="#">enjoy</a></li>
+        </ul>
+    </div>
+</nav>
+<div class="col-md-2">
+    {% block leftbody %}
+    {% endblock %}
+</div>
+<div class="col-md-8">
+    {% block midbody %}
+    {% endblock %}
+</div>
+<div class="col-md-2">
+    {% block rightbody %}
+    {% endblock %}
+</div>
 
 <script src="{% static 'js/bootstrap.min.js' %}"></script>
 <script src="{% static 'js/jquery.min.js' %}"></script>

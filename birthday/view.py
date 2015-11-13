@@ -14,3 +14,19 @@ def show_home(request):
             })
     except Exception as e:
         return show_message(request, 'Show home Error: ' + e.__str__())
+        
+@method_required('GET')
+def show_surprise(request):
+    try:
+        return render(request, 'home.html', {
+            })
+    except Exception as e:
+        return show_message(request, 'Show home Error: ' + e.__str__())
+        
+@method_required('GET')
+def show_enjoy(request):
+    try:
+        return render(request, 'home.html', {
+            })
+    except Exception as e:
+        return show_message(request, 'Show home Error: ' + e.__str__())

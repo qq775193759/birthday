@@ -13,9 +13,9 @@
 <nav class="navbar navbar-inverse navbar-static-top">
     <div class="container-fluid">
         <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#">surprise</a></li>
-            <li><a href="#">enjoy</a></li>
+            <li class="active"><a href="{% url 'birthday.view.show_home' %}">Home</a></li>
+            <li><a href="{% url 'birthday.view.show_surprise' %}">surprise</a></li>
+            <li><a href="{% url 'birthday.view.show_enjoy' %}">enjoy</a></li>
         </ul>
     </div>
 </nav>

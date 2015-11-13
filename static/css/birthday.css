@@ -4,3 +4,10 @@
     background-repeat: no-repeat;
     font-family:Arial,Helvetica,sans-serif,"宋体";
 }
+
+.masthead {
+    margin: 0px;
+    background-image: url(/static/images/masthead.jpg);
+    background-repeat: fixed;
+    font-family:Arial,Helvetica,sans-serif,"宋体";
+}

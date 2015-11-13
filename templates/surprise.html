@@ -2,9 +2,21 @@
 
 {% load static from staticfiles %}
 
-{% block title %}(title){% endblock %}
+{% block title %}surprise!{% endblock %}
 
 {% block leftbody %}
+<div class="list-group">
+    {% for item in left_group_active %}
+    <a href="{{item.href}}" class="list-group-item active">
+        {{item.name}}
+    </a>
+    {% endfor %}
+    {% for item in left_group %}
+    <a href="{{item.href}}" class="list-group-item">
+        {{item.name}}
+    </a>
+    {% endfor %}
+</div>
 {% endblock %}
 {% block midbody %}
 {% endblock %}
@@ -12,4 +24,9 @@
 {% endblock %}
 
 {% block js %}
+<script>
+    $(document).ready(function(){
+        $('#surprise').addClass('active');
+    });
+</script>
 {% endblock %}

@@ -2,14 +2,20 @@
 
 {% load static from staticfiles %}
 
-{% block title %}(title){% endblock %}
+{% block title %}enjoy!{% endblock %}
 
 {% block leftbody %}
 {% endblock %}
 {% block midbody %}
 {% endblock %}
 {% block rightbody %}
+
 {% endblock %}
 
 {% block js %}
+<script>
+    $(document).ready(function(){
+        $('#enjoy').addClass('active');
+    });
+</script>
 {% endblock %}

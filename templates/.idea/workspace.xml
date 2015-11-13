@@ -26,7 +26,7 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="46" selection-start="0" selection-end="418" vertical-scroll-proportion="-5.25" vertical-offset="81" max-vertical-offset="621">
+            <state line="21" column="9" selection-start="503" selection-end="503" vertical-scroll-proportion="-11.944445" vertical-offset="137" max-vertical-offset="756">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="enjoy.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/enjoy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="14" selection-start="241" selection-end="241" vertical-scroll-proportion="-10.5" vertical-offset="0" max-vertical-offset="540">
+            <state line="17" column="17" selection-start="287" selection-end="287" vertical-scroll-proportion="-10.444445" vertical-offset="83" max-vertical-offset="702">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="surprise.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/surprise.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="14" selection-start="241" selection-end="241" vertical-scroll-proportion="0.78099173" vertical-offset="0" max-vertical-offset="540">
+            <state line="28" column="20" selection-start="606" selection-end="606" vertical-scroll-proportion="0.7768595" vertical-offset="380" max-vertical-offset="999">
               <folding />
             </state>
           </provider>
@@ -53,7 +53,16 @@
       <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="52" selection-start="760" selection-end="760" vertical-scroll-proportion="-3.75" vertical-offset="324" max-vertical-offset="1269">
+            <state line="38" column="8" selection-start="1214" selection-end="1214" vertical-scroll-proportion="-7.4444447" vertical-offset="758" max-vertical-offset="1269">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mail_list.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../sisterbomber/aglaia/templates/mail_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="28.75" vertical-offset="1035" max-vertical-offset="5103">
               <folding />
             </state>
           </provider>
@@ -62,7 +71,16 @@
       <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../sisterbomber/aglaia/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="19" selection-start="314" selection-end="314" vertical-scroll-proportion="108.0" vertical-offset="4131" max-vertical-offset="14013">
+            <state line="9" column="19" selection-start="314" selection-end="314" vertical-scroll-proportion="364.77777" vertical-offset="13375" max-vertical-offset="14013">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="goods_list.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../sisterbomber/aglaia/templates/goods_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="35" selection-start="1721" selection-end="1721" vertical-scroll-proportion="445.16666" vertical-offset="17538" max-vertical-offset="18009">
               <folding />
             </state>
           </provider>
@@ -78,9 +96,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/blank.html" />
         <option value="$PROJECT_DIR$/base.html" />
         <option value="$PROJECT_DIR$/home.html" />
-        <option value="$PROJECT_DIR$/blank.html" />
         <option value="$PROJECT_DIR$/enjoy.html" />
         <option value="$PROJECT_DIR$/surprise.html" />
       </list>
@@ -181,27 +199,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../sisterbomber/aglaia/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="19" selection-start="314" selection-end="314" vertical-scroll-proportion="108.0" vertical-offset="4131" max-vertical-offset="14013">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="52" selection-start="760" selection-end="760" vertical-scroll-proportion="-3.75" vertical-offset="324" max-vertical-offset="1269">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="46" selection-start="0" selection-end="418" vertical-scroll-proportion="-5.25" vertical-offset="81" max-vertical-offset="621">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blank.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="21" selection-start="0" selection-end="241" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="540">
@@ -209,16 +206,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../sisterbomber/aglaia/templates/goods_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="35" selection-start="1721" selection-end="1721" vertical-scroll-proportion="445.16666" vertical-offset="17538" max-vertical-offset="18009">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sisterbomber/aglaia/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="19" selection-start="314" selection-end="314" vertical-scroll-proportion="364.77777" vertical-offset="13375" max-vertical-offset="14013">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sisterbomber/aglaia/templates/mail_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="28.75" vertical-offset="1035" max-vertical-offset="5103">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="8" selection-start="1214" selection-end="1214" vertical-scroll-proportion="-7.4444447" vertical-offset="758" max-vertical-offset="1269">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="9" selection-start="503" selection-end="503" vertical-scroll-proportion="-11.944445" vertical-offset="137" max-vertical-offset="756">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/enjoy.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="14" selection-start="241" selection-end="241" vertical-scroll-proportion="-10.5" vertical-offset="0" max-vertical-offset="540">
+        <state line="17" column="17" selection-start="287" selection-end="287" vertical-scroll-proportion="-10.444445" vertical-offset="83" max-vertical-offset="702">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/surprise.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="14" selection-start="241" selection-end="241" vertical-scroll-proportion="0.78099173" vertical-offset="0" max-vertical-offset="540">
+        <state line="28" column="20" selection-start="606" selection-end="606" vertical-scroll-proportion="0.7768595" vertical-offset="380" max-vertical-offset="999">
           <folding />
         </state>
       </provider>

@@ -18,7 +18,14 @@ def show_home(request):
 @method_required('GET')
 def show_surprise(request):
     try:
+        surprise={'href':'#','name':'surprise'}
+        prepare={'href':'#','name':'prepare'}
+        exist={'href':'#','name':'exist'}
+        lg_active=[surprise];
+        lg=[prepare,exist];
         return render(request, 'surprise.html', {
+        'left_group_active':lg_active,
+        'left_group':lg,
             })
     except Exception as e:
         return show_message(request, 'Show home Error: ' + e.__str__())

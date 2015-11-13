@@ -26,7 +26,7 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="3.8055556" vertical-offset="137" max-vertical-offset="621">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="1.5555556" vertical-offset="56" max-vertical-offset="621">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="base.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="34" selection-start="414" selection-end="414" vertical-scroll-proportion="0.51592356" vertical-offset="0" max-vertical-offset="1296">
+            <state line="8" column="68" selection-start="379" selection-end="379" vertical-scroll-proportion="0.446281" vertical-offset="0" max-vertical-offset="1269">
               <folding />
             </state>
           </provider>
@@ -150,13 +150,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="3.8055556" vertical-offset="137" max-vertical-offset="621">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../sisterbomber/aglaia/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14013">
@@ -164,9 +157,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="1.5555556" vertical-offset="56" max-vertical-offset="621">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="34" selection-start="414" selection-end="414" vertical-scroll-proportion="0.51592356" vertical-offset="0" max-vertical-offset="1296">
+        <state line="8" column="68" selection-start="379" selection-end="379" vertical-scroll-proportion="0.446281" vertical-offset="0" max-vertical-offset="1269">
           <folding />
         </state>
       </provider>

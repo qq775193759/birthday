@@ -19,7 +19,7 @@
 </div>
 {% endblock %}
 {% block midbody %}
-<div class="jumbotron masthead">
+<div class="jumbotron masthead" id="surprise_masthead">
     <div class="container">
         <h1 id="id_white">Surprise!</h1>
         <h2 id="id_white">你想给你的父母，恋人，朋友带来不一样的惊喜吗？</h2>
@@ -32,6 +32,19 @@
 </div>
 {% endblock %}
 {% block rightbody %}
+<div>
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <span class="glyphicon glyphicon-user" aria-hidden="true">亲密的联系人</span>
+        </div>
+        <div class="list-group" id="friend_list">
+            <a class="list-group-item" href="#">Bill</a>
+            {% for item in friend_list %}
+            <a class="list-group-item" href="#">{{item.name}}</a>
+            {% endfor %}
+        </div>
+    </div>
+</div>
 {% endblock %}
 
 {% block js %}
